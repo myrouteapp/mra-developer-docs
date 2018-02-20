@@ -20,7 +20,7 @@ A plain example of the html iframe:
 
 .. code-block:: html
 
-    <iframe src="https://www.myrouteapp.com/embed/map?lang=nl&amp;lat=52.370216&amp;lon=4.895168&amp;zoom=10" width="100%" height="500"></iframe>';
+    <iframe src="https://www.myrouteapp.com/embed/map?lang=nl&amp;lat=52.370216&amp;lon=4.895168&amp;zoom=10" width="100%" height="500"></iframe>
 
 
 The map can be customized by altering the url parameters as shown below:
@@ -43,7 +43,7 @@ The map can be customized by altering the url parameters as shown below:
 |                 |            |            | - bike           |                                                                            |
 |                 |            |            | - walk           |                                                                            |
 +-----------------+------------+------------+------------------+----------------------------------------------------------------------------+
-| fitmarkers      | Boolean    | false      |                  | Fits all markers inside map view. lat, long and zoom will be ignored.      |
+| fitmarkers      | Boolean    | false      |                  | Fits all markers inside map view. lat, lng and zoom will be ignored.      |
 +-----------------+------------+------------+------------------+----------------------------------------------------------------------------+
 | lat             | Float      | None       |                  | Sets initial position                                                      |
 +-----------------+------------+------------+------------------+----------------------------------------------------------------------------+
