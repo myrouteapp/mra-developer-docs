@@ -7,7 +7,7 @@ MyRoute-app allows developers to embed the following objects:
 - :ref:`Route summary <route-label>`
 - :ref:`Tracklog summary <tracklog-label>`
 
-This page will show how this is achieved and specify all available customization options.
+This page will show how this is achieved and specifies all available customization options.
 
 .. _map-label:
 
@@ -43,7 +43,7 @@ The map can be customized by altering the url parameters as shown below:
 |                 |            |            | - bike           |                                                                            |
 |                 |            |            | - walk           |                                                                            |
 +-----------------+------------+------------+------------------+----------------------------------------------------------------------------+
-| fitmarkers      | Boolean    | false      |                  | Fits all markers inside map view. lat, lng and zoom will be ignored.      |
+| fitmarkers      | Boolean    | false      |                  | Fits all markers inside map view. lat, lng and zoom will be ignored.       |
 +-----------------+------------+------------+------------------+----------------------------------------------------------------------------+
 | lat             | Float      | None       |                  | Sets initial position                                                      |
 +-----------------+------------+------------+------------------+----------------------------------------------------------------------------+
